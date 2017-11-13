@@ -1,0 +1,18 @@
+message: "Hi %{name}! Welcome to the 2017 Smith Family Secret Santa! This year you get %{partner_name}. Be creative and remember to keep it below $20!"
+participants:
+  -
+    :first_name: "John"
+    :last_name: "Smith"
+    :phone: 9185551234
+  -
+    :first_name: "Katie"
+    :last_name: "Smith"
+    :phone: 9185555678
+  -
+    :first_name: "Paul"
+    :last_name: "Smith"
+    :phone: 9185555309
+  -
+    :first_name: "Smithwick"
+    :last_name: "Smith"
+    :phone: 9185558004
