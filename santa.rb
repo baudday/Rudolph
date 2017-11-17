@@ -4,7 +4,7 @@ require 'twilio-ruby'
 class Santa
   attr_reader :message_draft, :list, :matches, :sms_client, :send_sms
 
-  def initializer(send_sms: false)
+  def initialize(send_sms: false)
     # Set to true when ready to send!
     @send_sms = send_sms
   end
